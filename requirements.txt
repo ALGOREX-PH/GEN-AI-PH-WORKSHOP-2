@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+bs4
+requests
+streamlit_option_menu
+streamlit_extras
+chromadb
+PyPDF2
+langchain
+sentence-transformers
